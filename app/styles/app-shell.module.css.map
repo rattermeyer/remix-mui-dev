@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../styles/app-shell.module.scss","../../styles/variables.scss"],"names":[],"mappings":"AACA;EACI;EACA;EACA;;;AAGJ;EACI,kBCRU;EDSV,OCPY;EDQZ;EACA;;;AAGJ;EACI;EACA;EACA;EACA;;;AAGJ;EACI;;;AAGJ;EACI,kBCjBY;EDkBZ,OC3BU;ED4BV;EACA;EACA","file":"app-shell.module.css"}

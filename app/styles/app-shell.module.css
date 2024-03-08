@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: white;
+  color: rgb(0, 102, 232);
+  text-align: center;
+  height: 50px;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+  border: 1px dashed rgb(232, 32, 0);
+  height: 90vH;
+}
+
+.body {
+  margin: 0;
+}
+
+.footer {
+  background-color: rgb(49, 51, 56);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  height: 50px;
+}
+
+/*# sourceMappingURL=app-shell.module.css.map */

@@ -1,0 +1,11 @@
+== Styles Directory
+
+This directory contains the scss source files.
+The source files are compiled into the `app/styles` directory at the build phase.
+
+It uses https://github.com/sass/node-sass[Node-Sass] to compile the scss files.
+
+You need to run in dev `npm run dev:css`.
+This will compile and watch the scss files for changes.
+
+For production, you need to run `npm run build:css`.

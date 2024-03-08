@@ -1,0 +1,33 @@
+@import 'variables';
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: $background-color-light;
+    color: $header-color;
+    text-align: center;
+    height: 50px;
+}
+
+.main {
+    flex: 1;
+    padding: 20px;
+    border: 1px dashed $color-red-10;
+    height: 90vH;
+}
+
+.body {
+    margin: 0;
+}
+
+.footer {
+    background-color: $background-color-dark;
+    color: $text-color-light;
+    padding: 10px;
+    text-align: center;
+    height: 50px;
+}
+
